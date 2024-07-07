@@ -1,0 +1,102 @@
+[
+    {
+        "name": "baby loation",
+        "price": 70,
+        "src":"product2.jpg"
+    },
+    {
+        "name": "baby shampo",
+        "price": 30,
+        "src":"product1.jpg"
+    },
+    {
+        "name": "baby oil",
+        "price": 85,
+        "src":"product3.jpg"
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    },
+    {
+        "name": "",
+        "price": 0,
+        "src":""
+    }
+]
